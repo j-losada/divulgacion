@@ -24,4 +24,4 @@ Traducción al gallego del libro: "Dialógusok a matematikáról" (Diálogos Mat
 ISBN: 978-84-09-30916-0
 Depósito Legal: C 838-2021
 
-Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es
+Nota: Los traductores todavía no disponen del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
