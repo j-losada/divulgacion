@@ -31,3 +31,10 @@ Nota: Los traductores todavía no disponen del permiso de los propietarios de lo
 <p align="center">
  <img src="alfred_renyi.png" width="220"  class="center"> <img src="libro_dialogos_matematicos_portada.jpg" width="240"  class="center">
 </p>
+
+
+<div class="wrapper">
+    <div class="box box1"><img src="alfred_renyi.png.jpg" alt="a balloon"></div>
+    <div class="box box2"><img src="alfred_renyi.png.jpg" alt="a balloon"></div>
+    <div class="box box3"><img src="alfred_renyi.png.jpg" alt="a balloon"></div>
+</div>
