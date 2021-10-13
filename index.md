@@ -28,5 +28,6 @@ Nota: Los traductores todavía no disponen del permiso de los propietarios de lo
 
 
 ![](libro_xogando_co_infinito_portada.jpg)
+<img src="libro_xogando_co_infinito_portada.jpg" width="100" height="100">
 
 
