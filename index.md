@@ -21,7 +21,7 @@ Traducción al gallego del libro: "Dialógusok a matematikáról" (Diálogos Mat
 - [libro_jugando_con_el_infinito](libro_xogando_co_infinito_protected.pdf)<br/>(libro completo, archivo con contraseña)
 - [libro_jugando_con_el_infinito](libro_xogando_co_infinito.pdf)<br/>(Prefacio, Capítulo 1, Capítulo 2 y Capítulo 22)
 
-ISBN: 978-84-09-30916-0
-Depósito Legal: C 838-2021
+ISBN: ???-??-??-?????-?
+Depósito Legal: ? ???-????
 
 Nota: Los traductores todavía no disponen del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
