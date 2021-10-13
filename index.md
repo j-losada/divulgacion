@@ -1,4 +1,4 @@
-## Documentos
+# Documentos
 
 **_Abril de 2021: Jugando con el Infinito (de Rózsa Péter)_**
 
