@@ -1,1 +1,1 @@
-# documentos
+# divulgación & popularización
