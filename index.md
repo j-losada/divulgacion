@@ -5,8 +5,8 @@
 
 Traducción al castellano del libro: "Játék a végtelennel: Matematika kívülállóknak" (Jugando con el Infinito: matemáticas para forasteros) de la matemática húngara [Rózsa Péter](https://es.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter)
 
-- 📎 [libro_xogando_co_infinito](libro_xogando_co_infinito_protected.pdf)
-- (libro completo, archivo con contraseña)
+- <p>📎 [libro_xogando_co_infinito](libro_xogando_co_infinito_protected.pdf)
+  <br>(libro completo, archivo con contraseña)
 
 - 📎 [libro_xogando_co_infinito](libro_xogando_co_infinito.pdf)
 
