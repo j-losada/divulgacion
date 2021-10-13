@@ -16,6 +16,8 @@ En el segundo archivo PDF se puede descargar el Prefacio, Capítulo 1, Capítulo
 
 Nota: Ante la ausencia de una editorial interesada en la publicación de la traducción, los traductores disponemos del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia, escribe un correo electrónico a jorge.losada.at.usc.es
 
-Jorge Losada Rodríguez
+<p>Jorge Losada Rodríguez
 
-Raúl Pino Velasco
+<br>Raúl Pino Velasco
+  
+  </p>
