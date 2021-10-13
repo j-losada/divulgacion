@@ -1,4 +1,4 @@
-# Documentos<br/><br/>
+# Documentos<br/>
 
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
@@ -10,7 +10,7 @@ Traducción al castellano del libro: "Játék a végtelennel: Matematika kívül
 ISBN: 978-84-09-30916-0
 Depósito Legal: C 838-2021
 
-Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es<br/><br/><br/>
+Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es<br/><br/>
 
 
 **Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)**
