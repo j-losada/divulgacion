@@ -7,8 +7,8 @@ Traducción al castellano del libro: "_Játék a végtelennel: Matematika kívü
 - 📓 [libro_jugando_con_el_infinito](libro_xogando_co_infinito_protegido.pdf)<br/>(Libro completo, archivo con contraseña)
 - 📎 [libro_jugando_con_el_infinito](libro_xogando_co_infinito_mostra.pdf)<br/>(Prefacio, Capítulos 1, 2 y 22)
 
-ISBN: 978-84-09-30916-0<p/>
-Depósito Legal: C 838-2021
+ISBN: 978-84-09-30916-0
+<p>Depósito Legal: C 838-2021
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es
 <p align="center">
