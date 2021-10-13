@@ -26,7 +26,7 @@ Traducción al gallego del libro: "_Dialógusok a matematikáról_" (_Diálogos 
 ISBN: ???-??-??-?????-?
 Depósito Legal: ? ???-????
 
-Nota: Los traductores todavía no disponen del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
+Nota: Los traductores no disponen todavía del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
 <p align="center">
  <img src="alfred_renyi.png" width="140"  class="center"> <img src="libro_dialogos_matematicos_portada.jpg" width="160"  class="center">
 </p>
