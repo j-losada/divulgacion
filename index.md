@@ -10,9 +10,9 @@ Traducción al castellano del libro: "_Játék a végtelennel: Matematika kívü
 ISBN: 978-84-09-30916-0
 Depósito Legal: C 838-2021
 
-Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es<br/><br/>
+Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es<br/>
 <p align="center">
- <img src="libro_xogando_co_infinito_portada.jpg" width="240"  class="center" top:-400px;> <img src="rozsa_peter_2.png" width="250"  class="center">
+ <img src="libro_xogando_co_infinito_portada.jpg" width="240"  class="center"> <img src="rozsa_peter_2.png" width="250"  class="center">
 </p>
 
 **Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)**
@@ -27,7 +27,6 @@ ISBN: ???-??-??-?????-?
 Depósito Legal: ? ???-????
 
 Nota: Los traductores todavía no disponen del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
-
 <p align="center">
  <img src="alfred_renyi.png" width="220"  class="center"> <img src="libro_dialogos_matematicos_portada.jpg" width="240"  class="center">
 </p>
