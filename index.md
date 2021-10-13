@@ -27,6 +27,6 @@ Depósito Legal: ? ???-????
 Nota: Los traductores todavía no disponen del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
 
 
-<img src="libro_xogando_co_infinito_portada.jpg" width="300"> <img src="libro_dialogos_matematicos_portada.jpg" width="300">
+<img src="libro_xogando_co_infinito_portada.jpg" width="250"  class="center"> <img src="libro_dialogos_matematicos_portada.jpg" width="250"  class="center">
 
 
