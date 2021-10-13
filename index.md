@@ -12,7 +12,7 @@ Depósito Legal: C 838-2021
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es
 <p align="center">
- <img src="libro_xogando_co_infinito_portada.jpg" width="200"  class="center"> <img src="rozsa_peter_2.png" width="210"  class="center">
+ <img src="libro_xogando_co_infinito_portada.jpg" width="180"  class="center"> <img src="rozsa_peter_2.png" width="190"  class="center">
 </p>
 
 **Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)**
@@ -28,5 +28,5 @@ Depósito Legal: ? ???-????
 
 Nota: Los traductores todavía no disponen del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
 <p align="center">
- <img src="alfred_renyi.png" width="180"  class="center"> <img src="libro_dialogos_matematicos_portada.jpg" width="200"  class="center">
+ <img src="alfred_renyi.png" width="160"  class="center"> <img src="libro_dialogos_matematicos_portada.jpg" width="180"  class="center">
 </p>
