@@ -5,7 +5,7 @@ Abril de 2021: Jugando con el Infinito (de Rózsa Péter)
 
 Traducción al castellano del libro: "Játék a végtelennel: Matematika kívülállóknak" (Jugando con el infinito: matemáticas para forasteros) de la matemática húngara Rózsa Péter
 
-pdf libro_xogando_co_infinito (libro completo, archivo con contraseña)
+pdf libro_xogando_co_infinito (libro completo, archivo con contraseña) [editor on GitHub](https://github.com/j-losada/documentos/edit/gh-pages/index.md)
 
 pdf libro_xogando_co_infinito
 
