@@ -25,3 +25,8 @@ ISBN: ???-??-??-?????-?
 Depósito Legal: ? ???-????
 
 Nota: Los traductores todavía no disponen del permiso de los propietarios de los derechos de autor para enviar copias personales a profesores y alumnos interesados en esta obra. Para recibir información sobre esta obra, escribe un correo electrónico a jorge.losada@usc.es
+
+
+![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
