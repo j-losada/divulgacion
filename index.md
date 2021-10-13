@@ -11,7 +11,6 @@ ISBN: 978-84-09-30916-0
 Depósito Legal: C 838-2021
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jorge.losada@usc.es<br/><br/>
-
 <p align="center">
  <img src="libro_xogando_co_infinito_portada.jpg" width="240"  class="center"> <img src="rozsa_peter.png" width="190"  class="center">
 </p>
