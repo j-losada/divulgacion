@@ -1,4 +1,4 @@
-# Algunos documentos<br/>
+# Proyecto Magyar Matemática<br/>
 
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
