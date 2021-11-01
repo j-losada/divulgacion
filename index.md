@@ -32,5 +32,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 </p>
 
 -Personajes del primer diálogo: Sócrates e Hipócrates
+
 -Personajes del segundo diálogo: Arquímedes y el Rey Hierón II
--Personajes del tercer diálogo: 
+
+-Personajes del tercer diálogo: Galileo Galilei, Torricelli y la Sra. Niccolini
