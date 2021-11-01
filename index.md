@@ -32,5 +32,5 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 </p>
 
 - Personajes del primer diálogo: [Sócrates](https://es.wikipedia.org/wiki/S%C3%B3crates) e [Hipócrates](https://es.wikipedia.org/wiki/Hip%C3%B3crates_de_Qu%C3%ADos)<br>
-- Personajes del segundo diálogo: Arquímedes y el Rey Hierón II<br>
+- Personajes del segundo diálogo: [Arquímedes](https://es.wikipedia.org/wiki/Arqu%C3%ADmedes) y el [Rey Hierón II](https://es.wikipedia.org/wiki/Hier%C3%B3n_II)<br>
 - Personajes del tercer diálogo: Galileo Galilei, Torricelli y la Sra. Niccolini
