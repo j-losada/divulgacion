@@ -28,5 +28,5 @@ Depósito Legal: ? ???-????
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jlosr@unileon.es
 <p align="center">
- <img src="alfred_renyi.png" width="140"  class="center"> <img src="libro_dialogos_matematicos (20) (2)_page-0001" width="160"  class="center">
+ <img src="alfred_renyi.png" width="140"  class="center"> <img src="libro_dialogos_matematicos_portada_jpg" width="160"  class="center">
 </p>
