@@ -30,3 +30,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 <p align="center">
  <img src="alfred_renyi.png" width="140"  class="center"> <img src="dialogos_matematicos_portada.jpg" width="160"  class="center">
 </p>
+
+-Personajes del primer diálogo: Sócrates e Hipócrates
+-Personajes del segundo diálogo: Arquímedes y el Rey Hierón II
+-Personajes del tercer diálogo: 
