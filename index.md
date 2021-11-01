@@ -31,6 +31,6 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
  <img src="alfred_renyi.png" width="140"  class="center"> <img src="dialogos_matematicos_portada.jpg" width="160"  class="center">
 </p>
 
-- Personajes del primer diálogo: Sócrates e Hipócrates<br>
+- Personajes del primer diálogo: [Sócrates](https://es.wikipedia.org/wiki/S%C3%B3crates) e [Hipócrates](https://es.wikipedia.org/wiki/Hip%C3%B3crates_de_Qu%C3%ADos)<br>
 - Personajes del segundo diálogo: Arquímedes y el Rey Hierón II<br>
 - Personajes del tercer diálogo: Galileo Galilei, Torricelli y la Sra. Niccolini
