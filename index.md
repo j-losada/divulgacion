@@ -35,7 +35,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 - Personajes del segundo diálogo: [Arquímedes](https://es.wikipedia.org/wiki/Arqu%C3%ADmedes) y el [Rey Hierón II](https://es.wikipedia.org/wiki/Hier%C3%B3n_II)<br>
 - Personajes del tercer diálogo: [Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei), [Torricelli](https://es.wikipedia.org/wiki/Evangelista_Torricelli) y la [Sra. Niccolini](https://brunelleschi.imss.fi.it/itineraries/biography/FrancescoNiccolini.html)</p><br/>
 
-**En el futuro**
+**En el futuro...**
 
 - Las matemáticas a juicio (obra de teatro del Prf. Béla Andrásfai)<br>
 - Algunos textos matemáticos de un autor (húngaro) por desvelar<br>
