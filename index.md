@@ -34,7 +34,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 - Personajes del primer diálogo: [Sócrates](https://es.wikipedia.org/wiki/S%C3%B3crates) e [Hipócrates](https://es.wikipedia.org/wiki/Hip%C3%B3crates_de_Qu%C3%ADos)<br>
 - Personajes del segundo diálogo: [Arquímedes](https://es.wikipedia.org/wiki/Arqu%C3%ADmedes) y el [Rey Hierón II](https://es.wikipedia.org/wiki/Hier%C3%B3n_II)<br>
 - Personajes del tercer diálogo: [Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei), [Torricelli](https://es.wikipedia.org/wiki/Evangelista_Torricelli) y la [Sra. Niccolini](https://brunelleschi.imss.fi.it/itineraries/biography/FrancescoNiccolini.html)
-</p><br/>
+<br/>
 
 **En el futuro...**
 
