@@ -23,8 +23,8 @@ Traducción al gallego del libro: "_Dialógusok a matematikáról_" (_Diálogos 
 - 📓 [libro_diálogos_matemáticos](libro_dialogos_matematicos_protected.pdf)<br/>(Libro completo, archivo con contraseña)
 - 📎 [libro_diálogos_matemáticos](dialogos_matematicos_mostra.pdf)<br/>(Primeras y últimas páginas)
 
-ISBN: ???-??-??-?????-?<br>
-Depósito Legal: ? ???-????
+ISBN: 978-84-09-35555-6<br>
+Depósito Legal: C 1917-2021
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jlosr@unileon.es
 <p align="center">
