@@ -1,5 +1,7 @@
 # Proyecto "Magyar Matemática"<br/>
 
+"_ El principio detrás de la reforma puede expresarse brevemente de la siguiente manera: Que la enseñanza de las matemáticas sea tal que desarrolle en el alumno la conciencia de la importancia cultural de las matemáticas. Queremos que los graduados de nuestras instituciones secundarias lleven algo de su formación matemática a su vida adulta. Tenemos la esperanza de que de esa manera "la práctica de pensar matemáticamente" tenga un impacto en la vida pública. Nuestros alumnos deben darse cuenta de la gran cantidad de ramas de las matemáticas relacionadas con la vida práctica, las ciencias y nuestra visión general del mundo en su totalidad. ... Estamos convencidos de que la enseñanza modificada con este fin es necesaria para comprender las principales características de la cultura moderna. No es nuestro objetivo proporcionar más conocimientos matemáticos a los alumnos que vayan a recibir más formación técnica o especializada; en cambio, nuestro objetivo es equipar precisamente a aquellos alumnos cuya formación en matemáticas llegará a su fin al graduarse de la escuela secundaria con una comprensión de las matemáticas que es digna de una ciencia tan grande._"
+
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
 Traducción al castellano del libro: "_Játék a végtelennel: Matematika kívülállóknak_" (_Jugando con el Infinito: matemáticas para forasteros_) de la matemática húngara [Rózsa Péter](https://es.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter):
