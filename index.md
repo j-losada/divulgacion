@@ -1,6 +1,6 @@
 # Proyecto "Magyar Matemática"<br/>
 
-"_El principio detrás del proyecto puede expresarse brevemente de la siguiente manera: que la enseñanza de las matemáticas sea tal que desarrolle en el alumno la conciencia de la importancia cultural de las matemáticas. Tenemos la esperanza de que de esa manera "la práctica de pensar matemáticamente" tenga un impacto en la vida pública. No es nuestro objetivo proporcionar más conocimientos matemáticos a los alumnos que vayan a recibir más formación técnica o especializada; en cambio, nuestro objetivo es equipar precisamente a aquellos alumnos cuya formación en matemáticas llegará a su fin al graduarse de la escuela secundaria con una comprensión de las matemáticas que es digna de una ciencia tan grande._"
+"_Que la enseñanza de las matemáticas sea tal que desarrolle en el alumno la conciencia de la importancia cultural de las matemáticas. No es nuestro objetivo proporcionar más conocimientos matemáticos a los alumnos que vayan a recibir más formación técnica o especializada; nuestro objetivo es equipar precisamente a aquellos alumnos cuya formación en matemáticas llegará a su fin al graduarse de la escuela secundaria con una comprensión de las matemáticas que sea digna de una ciencia tan grande._"
 
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
