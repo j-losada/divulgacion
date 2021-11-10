@@ -44,6 +44,6 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 - Algunos textos matemáticos de un autor (húngaro) por desvelar<br>
 
 <p align="center">
- <img src="karinthy.png" width="140"  class="center">
+ <img src="autor_hungaro.png" width="140"  class="center">
 </p>
 
