@@ -1,4 +1,4 @@
-# Proyecto "Magyar Matemática"<br/>
+# Proyecto "Matemática Magyar"<br/>
 
 "_Que la enseñanza de las matemáticas sea tal que desarrolle en el alumno la conciencia de la importancia cultural de las matemáticas. No es nuestro objetivo proporcionar más conocimientos matemáticos a los alumnos que vayan a recibir más formación técnica o especializada; nuestro objetivo es equipar precisamente a aquellos alumnos cuya formación en matemáticas llegará a su fin al graduarse de la escuela secundaria con una comprensión de las matemáticas que sea digna de una ciencia tan grande._"
 
