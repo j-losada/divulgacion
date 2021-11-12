@@ -2,7 +2,7 @@
 
 "_Que la enseñanza de las matemáticas sea tal que desarrolle en el alumno la conciencia de la importancia cultural de las matemáticas. No es nuestro objetivo proporcionar más conocimientos matemáticos a los alumnos que vayan a recibir más formación técnica o especializada; nuestro objetivo es equipar precisamente a aquellos alumnos cuya formación en matemáticas llegará a su fin al graduarse de la escuela secundaria con una comprensión de las matemáticas que sea digna de una ciencia tan grande._"
 
-Todos los **materiales** que se muestran a continuación han sido **diseñados para estudiantes, no para profesores** (aunque pude que también sean interesantes para éstos últimos).
+Todos los **materiales** que se muestran a continuación han sido **diseñados para estudiantes, no para profesores**.
 
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
