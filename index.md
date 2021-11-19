@@ -40,6 +40,8 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 - Personajes del tercer diálogo: [Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei), [Torricelli](https://es.wikipedia.org/wiki/Evangelista_Torricelli) y la [Sra. Niccolini](https://brunelleschi.imss.fi.it/itineraries/biography/FrancescoNiccolini.html)
 <br/>
 
+**Noviembre de 2021: Algunos textos matemáticos de [Frigyes Karinthy](https://es.wikipedia.org/wiki/Frigyes_Karinthy)**
+
 **En el futuro...**
 
 - Las matemáticas a juicio (obra de teatro del Prof. Béla Andrásfai)<br>
