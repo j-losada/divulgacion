@@ -19,6 +19,9 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
  <img src="xogando_co_infinito_portada.jpg" width="150"  class="center"> <img src="rozsa_peter_2.png" width="150"  class="center">
 </p><br/>
 
+Añadimos aquí un breve pero interesante ejemplo que muestra una de las características principales del "_método húngaro_": el aprendizaje por descubrimiento:
+- 📎 [En el aula con Rózsa Péter: m.c.d.(116,36)](xogando_co_infinito_mostra.pdf)<br/>
+
 **Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)**
 
 
