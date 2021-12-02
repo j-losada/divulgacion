@@ -28,7 +28,7 @@ Añadimos aquí un breve pero interesante ejemplo que muestra una de las caracte
 Traducción al gallego del libro: "_Dialógusok a matematikáról_" (_Diálogos Matemáticos_) del matemático húngaro [Alfréd Rényi](https://es.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi):
 
 - 📓 [libro_diálogos_matemáticos](dialogos_matematicos_protected.pdf)<br/>(Libro completo, archivo con contraseña)
-- 📎 [libro_diálogos_matemáticos](dialogos_matematicos_mostra.pdf)<br/>(Primeras y últimas páginas)
+- 📎 [libro_diálogos_matemáticos](mcd.pdf)<br/>(Primeras y últimas páginas)
 
 ISBN: 978-84-09-35555-6<br>
 Depósito Legal: C 1917-2021
