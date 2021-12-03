@@ -3,7 +3,7 @@
 "_Que la enseñanza de las matemáticas sea tal que desarrolle en el alumno la conciencia de la importancia cultural de las matemáticas. No es nuestro objetivo proporcionar más conocimientos matemáticos a los alumnos que vayan a recibir más formación técnica o especializada; nuestro objetivo es equipar precisamente a aquellos alumnos cuya formación en matemáticas llegará a su fin al graduarse de la escuela secundaria con una comprensión de las matemáticas que sea digna de una ciencia tan grande._"
 
 Un póster a modo de declaración de intenciones:
--  📎 [Matemáticas "_a la húngara_" para Secundaria y Bachillerato](poster_jornada_innovacion_docente.pdf)<br/>
+-  📎 [Matemáticas "_a la húngara_" para Secundaria y Bachillerato](poster_jornada_innovacion_docente (1).pdf)<br/>
 
 Todos los **materiales** que se muestran a continuación han sido **diseñados para estudiantes, no para profesores**.
 
