@@ -26,7 +26,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 </p><br/>
 
 Añadimos aquí un breve pero interesante ejemplo que muestra una de las características principales del "_método húngaro_": el aprendizaje por descubrimiento.
-- 📎 [En el aula con Rózsa Péter: m.c.d.(116,36)](mcd_116_36.pdf)<br/>
+- 📎 [En el aula con Rózsa Péter: m.c.d.(116,36)](mcd_116_36.pdf)<p/>
 
 <hr size="16px" color="black" />
 
@@ -49,7 +49,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 - Personajes del primer diálogo: [Sócrates](https://es.wikipedia.org/wiki/S%C3%B3crates) e [Hipócrates](https://es.wikipedia.org/wiki/Hip%C3%B3crates_de_Qu%C3%ADos)<br>
 - Personajes del segundo diálogo: [Arquímedes](https://es.wikipedia.org/wiki/Arqu%C3%ADmedes) y el [Rey Hierón II](https://es.wikipedia.org/wiki/Hier%C3%B3n_II)<br>
 - Personajes del tercer diálogo: [Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei), [Torricelli](https://es.wikipedia.org/wiki/Evangelista_Torricelli) y la [Sra. Niccolini](https://brunelleschi.imss.fi.it/itineraries/biography/FrancescoNiccolini.html)
-<br/>
+</p>
 
 <hr size="16px" color="black" />
 
