@@ -55,4 +55,4 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 <p align="left">
  <img src="autor_hungaro.png" width="165"  class="left">
 </p>
-
+<hr size="16px" color="black" />
