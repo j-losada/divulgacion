@@ -8,6 +8,8 @@ Un póster a modo de declaración de intenciones:
 
 Todos los **materiales** que se muestran a continuación han sido **diseñados para estudiantes, no para profesores**.
 
+<hr size="16px" color="black" />
+
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
 Traducción al castellano del libro: "_Játék a végtelennel: Matematika kívülállóknak_" (_Jugando con el Infinito: matemáticas para forasteros_) de la matemática húngara [Rózsa Péter](https://es.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter):
@@ -25,6 +27,8 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 
 Añadimos aquí un breve pero interesante ejemplo que muestra una de las características principales del "_método húngaro_": el aprendizaje por descubrimiento.
 - 📎 [En el aula con Rózsa Péter: m.c.d.(116,36)](mcd_116_36.pdf)<br/>
+
+<hr size="16px" color="black" />
 
 **Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)**
 
@@ -46,6 +50,8 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 - Personajes del segundo diálogo: [Arquímedes](https://es.wikipedia.org/wiki/Arqu%C3%ADmedes) y el [Rey Hierón II](https://es.wikipedia.org/wiki/Hier%C3%B3n_II)<br>
 - Personajes del tercer diálogo: [Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei), [Torricelli](https://es.wikipedia.org/wiki/Evangelista_Torricelli) y la [Sra. Niccolini](https://brunelleschi.imss.fi.it/itineraries/biography/FrancescoNiccolini.html)
 <br/>
+
+<hr size="16px" color="black" />
 
 **En el futuro...**
 
