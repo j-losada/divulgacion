@@ -66,7 +66,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
  <img src="portada_cartas_sobre_probabilidade.jpg" width="160" class="center"> <img src="alfred_renyi.png" width="140" class="center">
 </p>
 
-En esta interesante obra se muestra la probabilidad en _status nascendi_ a través de unas ficticias cartas que [Pascal](https://es.wikipedia.org/wiki/Blaise_Pascal) envía a [Fermat](https://es.wikipedia.org/wiki/Pierre_de_Fermat)
+En esta interesante obra, Alfréd Rényi nos muestra la probabilidad en _status nascendi_ a través de unas ficticias cartas que [Pascal](https://es.wikipedia.org/wiki/Blaise_Pascal) envía a [Fermat](https://es.wikipedia.org/wiki/Pierre_de_Fermat). 
 
 <hr size="16px" color="black" />
 
