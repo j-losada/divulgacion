@@ -63,7 +63,7 @@ Depósito Legal:
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jlosr@unileon.es
 <p align="center">
- <img src="" width="160" class="center"> <img src="alfred_renyi.png" width="140" class="center">
+ <img src="portada_cartas_sobre_probabilidade.jpg" width="160" class="center"> <img src="alfred_renyi.png" width="140" class="center">
 </p>
 
 - Personajes del primer diálogo: [Sócrates](https://es.wikipedia.org/wiki/S%C3%B3crates) e [Hipócrates](https://es.wikipedia.org/wiki/Hip%C3%B3crates_de_Qu%C3%ADos)<br>
