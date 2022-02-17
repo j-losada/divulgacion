@@ -52,6 +52,8 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 
 <hr size="16px" color="black" />
 
+**Febrero de 2022: Cartas sobre Probabilidad (de Alfréd Rényi)**
+
 **En el futuro...**
 
 - Las matemáticas a juicio (obra de teatro del Prof. Béla Andrásfai)<br>
