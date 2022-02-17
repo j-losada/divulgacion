@@ -56,7 +56,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 Traducción al castellano del libro: "_Levelek a valószínűségről_" (_Cartas sobre probabilidad_) del matemático húngaro [Alfréd Rényi](https://es.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi):
 
 - 📓 [libro_cartas_sobre_probabilidad](dialogos_matematicos_protected.pdf)<br/>(Libro completo, archivo con contraseña)
-- 📎 [libro_cartas_sobre_probabilidad](mcd.pdf)<br/>(Primeras y últimas páginas)
+- 📎 [libro_cartas_sobre_probabilidad](mcd.pdf)<br/>(Primeras páginas)
 
 ISBN: <br>
 Depósito Legal: 
@@ -66,9 +66,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
  <img src="portada_cartas_sobre_probabilidade.jpg" width="160" class="center"> <img src="alfred_renyi.png" width="140" class="center">
 </p>
 
-- Personajes del primer diálogo: [Sócrates](https://es.wikipedia.org/wiki/S%C3%B3crates) e [Hipócrates](https://es.wikipedia.org/wiki/Hip%C3%B3crates_de_Qu%C3%ADos)<br>
-- Personajes del segundo diálogo: [Arquímedes](https://es.wikipedia.org/wiki/Arqu%C3%ADmedes) y el [Rey Hierón II](https://es.wikipedia.org/wiki/Hier%C3%B3n_II)<br>
-- Personajes del tercer diálogo: [Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei), [Torricelli](https://es.wikipedia.org/wiki/Evangelista_Torricelli) y la [Sra. Niccolini](https://brunelleschi.imss.fi.it/itineraries/biography/FrancescoNiccolini.html)
+En esta interesante obra se muestra la probabilidad en _status nascendi_ a través de unas ficticias cartas que [Pascal](https://es.wikipedia.org/wiki/Blaise_Pascal) envía a [Fermat](https://es.wikipedia.org/wiki/Pierre_de_Fermat)
 
 <hr size="16px" color="black" />
 
