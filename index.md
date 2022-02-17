@@ -55,8 +55,8 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
 
 Traducción al castellano del libro: "_Levelek a valószínűségről_" (_Cartas sobre probabilidad_) del matemático húngaro [Alfréd Rényi](https://es.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi):
 
-- 📓 [libro_cartas_sobre_probabilidad](dialogos_matematicos_protected.pdf)<br/>(Libro completo, archivo con contraseña)
-- 📎 [libro_cartas_sobre_probabilidad](mcd.pdf)<br/>(Primeras páginas)
+- 📓 [libro_cartas_sobre_probabilidad](cartas_sobre_probabilidade_mostra.pdf)<br/>(Libro completo, archivo con contraseña)
+- 📎 [libro_cartas_sobre_probabilidad](cartas_sobre_probabilidade_mostra.pdf)<br/>(Primeras páginas)
 
 ISBN: <br>
 Depósito Legal: 
