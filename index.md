@@ -58,7 +58,7 @@ Traducción al castellano del libro: "_Levelek a valószínűségről_" (_Cartas
 - 📓 [libro_cartas_sobre_probabilidad](cartas_sobre_probabilidade_protected.pdf)<br/>(Libro completo, archivo con contraseña)
 - 📎 [libro_cartas_sobre_probabilidad](cartas_sobre_probabilidade_mostra.pdf)<br/>(Primeras páginas)
 
-ISBN: <br>
+ISBN: 978-84-09-43646-0<br>
 Depósito Legal: 
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jlosr@unileon.es
