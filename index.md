@@ -91,7 +91,6 @@ En esta interesante obra, Alfréd Rényi nos muestra la probabilidad en _status 
 
 **En el futuro...**
 
-- Las matemáticas a juicio (obra de teatro del Prof. Béla Andrásfai)<br>
 - Algunos textos matemáticos de un autor (húngaro) por desvelar<br>
 
 <p align="left">
