@@ -97,3 +97,8 @@ En esta interesante obra, Alfréd Rényi nos muestra la probabilidad en _status 
  <img src="autor_hungaro.png" width="165"  class="left">
 </p>
 <hr size="16px" color="black" />
+
+<!-- Contador de visitas -->
+<center><a href="https://websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="https://websmultimedia.com/contador-de-visitas.php?id=4928"></a><br><a href='https://websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/diseno-web/sevilla'>Diseño de paginas web en sevilla</a></center>
+<!-- Fin Contador de visitas -->
