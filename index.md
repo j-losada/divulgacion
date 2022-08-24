@@ -23,7 +23,7 @@ Depósito Legal: C 838-2021
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jlosr@unileon.es
 <p align="center">
  <img src="xogando_co_infinito_portada.jpg" width="150"  class="center"> <img src="rozsa_peter_2.png" width="150"  class="center">
-</p><br/>
+</p>
 
 Añadimos aquí un breve pero interesante ejemplo que muestra una de las características principales del "_método húngaro_": el aprendizaje por descubrimiento.
 - 📎 [En el aula con Rózsa Péter: m.c.d.(116,36)](mcd_116_36.pdf)
