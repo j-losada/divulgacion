@@ -70,14 +70,14 @@ En esta interesante obra, Alfréd Rényi nos muestra la probabilidad en _status 
 
 <hr size="16px" color="black" />
 
-**Agosto de 2022: Cartas sobre Probabilidad (de Alfréd Rényi)**
+**Agosto de 2022: Matemáticas en tela de juicio (de Béla Andrásfai)**
 
-Traducción al castellano del libro: "_Levelek a valószínűségről_" (_Cartas sobre probabilidad_) del matemático húngaro [Alfréd Rényi](https://es.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi):
+Traducción al castellano del libro: "_Matematika a vádlottak padján_" (_Matemáticas en tela de juicio_) del matemático húngaro [Béla Andrásfai](https://en.wikipedia.org/wiki/B%C3%A9la_Andr%C3%A1sfai):
 
-- 📓 [libro_cartas_sobre_probabilidad](cartas_sobre_probabilidade_protected.pdf)<br/>(Libro completo, archivo con contraseña)
-- 📎 [libro_cartas_sobre_probabilidad](cartas_sobre_probabilidade_mostra.pdf)<br/>(Primeras y últimas páginas)
+- 📓 [libro_matemáticas_tela_juicio](cartas_sobre_probabilidade_protected.pdf)<br/>(Libro completo, archivo con contraseña)
+- 📎 [libro_matematicas_tela_juicio](cartas_sobre_probabilidade_mostra.pdf)<br/>(Primeras y últimas páginas)
 
-ISBN: 978-84-09-43646-0<br>
+ISBN: 978-84-09-43790-0<br>
 Depósito Legal: 
 
 Nota: Los traductores disponen del permiso de los propietarios de los derechos de autor para enviar una copia personal a profesores y alumnos interesados en esta obra. Para solicitar tu copia gratuita, escribe un correo electrónico a jlosr@unileon.es
