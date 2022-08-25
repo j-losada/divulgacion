@@ -99,6 +99,6 @@ En esta interesante obra, Alfréd Rényi nos muestra la probabilidad en _status 
 <hr size="16px" color="black" />
 
 <!-- Contador de visitas -->
-<center><a href="https://websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<center><a title="Contador De Visitas Gratis">
 <img style="border: 0px solid; display: inline;" alt="contador de visitas" src="https://websmultimedia.com/contador-de-visitas.php?id=4928"></a></center>
 <!-- Fin Contador de visitas -->
