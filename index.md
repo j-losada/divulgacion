@@ -74,8 +74,8 @@ En esta interesante obra, Alfréd Rényi nos muestra la probabilidad en _status 
 
 Traducción al castellano del libro: "_Matematika a vádlottak padján_" (_Matemáticas en tela de juicio_) del matemático húngaro [Béla Andrásfai](https://en.wikipedia.org/wiki/B%C3%A9la_Andr%C3%A1sfai):
 
-- 📓 [libro_matemáticas_tela_juicio](cartas_sobre_probabilidade_protected.pdf)<br/>(Libro completo, archivo con contraseña)
-- 📎 [libro_matematicas_tela_juicio](matematicas_al_banquillo_mostra.pdf)<br/>(Primeras y últimas páginas)
+- 📓 [libro_matemáticas_tela_juicio](matematicas_al_banquillo_protected.pdf)<br/>(Libro completo, archivo con contraseña)
+- 📎 [libro_matematicas_tela_juicio](matematicas_al_banquillo_mostra.pdf)<br/>(Primeras y última página)
 
 ISBN: 978-84-09-43790-0<br>
 Depósito Legal: 
