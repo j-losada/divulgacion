@@ -85,7 +85,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
  <img src="bela_andrasfai.jpg" width="145" class="center"> <img src="matematicas_juicio_portada.jpg" width="150" class="center">
 </p>
 
-En esta interesante obra, Alfréd Rényi nos muestra la probabilidad en _status nascendi_ a través de unas ficticias cartas que [Pascal](https://es.wikipedia.org/wiki/Blaise_Pascal) envía a [Fermat](https://es.wikipedia.org/wiki/Pierre_de_Fermat). El [Caballero de Meré](https://es.wikipedia.org/wiki/Antoine_Gombaud), [Damien Mitton](https://es.wikipedia.org/wiki/Damien_Mitton) o [Lucrecio](https://es.wikipedia.org/wiki/Lucrecio) nos acompañarán en esta aventura.
+En esta divertida obra de teatro, [Béla Andráfai](https://en.wikipedia.org/wiki/B%C3%A9la_Andr%C3%A1sfai) lleva a juicio a las matemáticas. El elevado número de personajes facilita su representación en el aula o durante un guateque con colegas. 
 
 <hr size="16px" color="black" />
 
