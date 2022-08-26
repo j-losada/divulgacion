@@ -85,7 +85,7 @@ Nota: Los traductores disponen del permiso de los propietarios de los derechos d
  <img src="bela_andrasfai.jpg" width="145" class="center"> <img src="matematicas_juicio_portada.jpg" width="150" class="center">
 </p>
 
-En esta divertida obra de teatro, [Béla Andráfai](https://en.wikipedia.org/wiki/B%C3%A9la_Andr%C3%A1sfai) lleva a juicio a las matemáticas. El elevado número de personajes facilita su representación en el aula o durante un [guateque](https://www.youtube.com/watch?v=2gnC_qfP6Iw) con [colegas](https://www.youtube.com/watch?v=arC--h39GuU). 
+En esta divertida obra de teatro, [Béla Andrásfai](https://en.wikipedia.org/wiki/B%C3%A9la_Andr%C3%A1sfai) lleva a juicio a las matemáticas. El elevado número de personajes facilita su representación en el aula o durante un [guateque](https://www.youtube.com/watch?v=2gnC_qfP6Iw) con [colegas](https://www.youtube.com/watch?v=arC--h39GuU). 
 
 <hr size="16px" color="black" />
 
