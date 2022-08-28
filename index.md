@@ -1,5 +1,9 @@
 # Matemática Magyar<br/>
 
+"_Is there any virtue in adding new topics to the Elementary School Math Curriculum?
+
+Is it not more important to teach a limited number of time-honoured topics in a meaningful way, than to cram curriculum with too much stuff, risking to neglect the essentials?_"
+
 "_Que la enseñanza de las matemáticas sea tal que desarrolle en el alumno la conciencia de la importancia cultural de las matemáticas. No es nuestro objetivo proporcionar más conocimientos matemáticos a los alumnos que vayan a recibir más formación técnica o especializada; nuestro objetivo es equipar precisamente a aquellos alumnos cuya formación en matemáticas llegará a su fin al graduarse de la escuela secundaria con una comprensión de las matemáticas que sea digna de una ciencia tan grande._"
 <hr size="16px" color="black" />
 
