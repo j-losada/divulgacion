@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Matemática Magyar<br/>
 
 "_Is there any virtue in adding new topics to the Elementary School Math Curriculum? Is it not more important to teach a limited number of time-honoured topics in a meaningful way, than to cram curriculum with too much stuff, risking to neglect the essentials?_"
