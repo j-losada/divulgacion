@@ -94,9 +94,11 @@ En esta divertida obra de teatro, [Béla Andrásfai](https://en.wikipedia.org/wi
 **En el futuro...**
 
 No podemos despedirnos sin un poco de humor, pero como dijo [Frigyes Karinthy](https://es.wikipedia.org/wiki/Frigyes_Karinthy):<br/>
+<p>
 <center>
 _"cuando se trata de humor, ¡no admito bromas!"_
 </center>
+ </p>
 
 Nosotros tampoco.
 
