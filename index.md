@@ -93,7 +93,12 @@ En esta divertida obra de teatro, [Béla Andrásfai](https://en.wikipedia.org/wi
 
 **En el futuro...**
 
-- Algunos textos matemáticos de un autor (húngaro) por desvelar<br>
+Cuando se trata de humor, ¡no admito bromas!
+
+- 📎 [Eureka!](eureka.pdf)<br/>(Primeras y última página)
+- 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)<br/>(Primeras y última página)
+- 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>(Primeras y última página)
+- Continuará...
 
 <p align="left">
  <img src="autor_hungaro.png" width="165"  class="left">
