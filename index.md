@@ -96,7 +96,7 @@ En esta divertida obra de teatro, [Béla Andrásfai](https://en.wikipedia.org/wi
 No podemos despedirnos sin un poco de humor, pero como dijo [Frigyes Karinthy](https://es.wikipedia.org/wiki/Frigyes_Karinthy):
 <p>
 <center>
-"_cuando se trata de humor, ¡no admito bromas!_"
+<em>cuando se trata de humor, ¡no admito bromas!</em>
 </center>
 </p>
 
