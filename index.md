@@ -102,9 +102,9 @@ No podemos despedirnos sin un poco de humor, pero como dijo [Frigyes Karinthy](h
 
 Nosotros tampoco.
 
-- 📎 [Eureka!](eureka.pdf)
-- 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)
-- 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>
+- 📎 [Eureka!](eureka.pdf)<br/>(La verdadera historia de Arquímedes)
+- 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)<br/>(No apto para gente que odia la regla de tres)
+- 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>(Sólo para aquellos que descubrieron el continuo)
 - Continuará...
 
 <p align="left">
