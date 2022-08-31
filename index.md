@@ -93,10 +93,14 @@ En esta divertida obra de teatro, [Béla Andrásfai](https://en.wikipedia.org/wi
 
 **En el futuro...**
 
-No podemos despedirnos sin un poco de humor, pero como dijo [Frigyes Karinthy](https://es.wikipedia.org/wiki/Frigyes_Karinthy): _"cuando se trata de humor, ¡no admito bromas!"_; nosotros tampoco.
+No podemos despedirnos sin un poco de humor, pero como dijo [Frigyes Karinthy](https://es.wikipedia.org/wiki/Frigyes_Karinthy):<br/>
+<p align="center">
+_"cuando se trata de humor, ¡no admito bromas!"_<br/>
+ <\p>
+Nosotros tampoco.
 
 - 📎 [Eureka!](eureka.pdf)
-- 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)<br/>
+- 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)
 - 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>
 - Continuará...
 
