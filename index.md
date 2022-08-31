@@ -93,11 +93,11 @@ En esta divertida obra de teatro, [Béla Andrásfai](https://en.wikipedia.org/wi
 
 **En el futuro...**
 
-Cuando se trata de humor, ¡no admito bromas!
+Como dijo [Frigyes Karinthy](Frigyes Karinthy): _"Cuando se trata de humor, ¡no admito bromas!"_
 
-- 📎 [Eureka!](eureka.pdf)<br/>(Primeras y última página)
-- 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)<br/>(Primeras y última página)
-- 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>(Primeras y última página)
+- 📎 [Eureka!](eureka.pdf)
+- 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)<br/>
+- 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>
 - Continuará...
 
 <p align="left">
