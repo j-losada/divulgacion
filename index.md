@@ -105,7 +105,7 @@ Nosotros tampoco.
 - 📎 [Eureka!](eureka.pdf)<br/>(La verdadera historia de Arquímedes)
 - 📎 [Ayudo a mi hijo](ayudo_a_mi_hijo.pdf)<br/>(No apto para gente que odia la regla de tres)
 - 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>(Sólo para aquellos que descubrieron el continuo)
-- Continuará...
+- Continuará...<br/> (No sin tu interés)
 
 <p align="left">
  <img src="autor_hungaro.png" width="165"  class="left">
