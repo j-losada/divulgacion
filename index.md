@@ -6,7 +6,7 @@
 <hr size="16px" color="black" />
 
 Un póster a modo de declaración de intenciones:
--  📎 [Matemáticas "_a la húngara_" para Secundaria y Bachillerato](poster_jornada_innovacion_docente (1).pdf)<br/>
+-  📎 [Matemáticas "_a la húngara_" para Secundaria y Bachillerato](poster_jornada_innovacion_docente.pdf)<br/>
 
 Todos los **materiales** que se muestran a continuación han sido **diseñados para estudiantes, no para profesores**.
 
