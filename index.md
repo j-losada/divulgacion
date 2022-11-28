@@ -17,8 +17,11 @@ Todos los **materiales** que se muestran a continuación han sido **diseñados p
 <hr size="16px" color="black" />
 
 - 📓 [Abril de 2021: Jugando con el Infinito (de Rózsa Péter)](jugando_con_el_infinito.md)<br/>
+
 - 📓 [Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)](dialogos_matematicos.md)<br/>
+
 - 📓 [Febrero de 2022: Cartas sobre Probabilidad (de Alfréd Rényi)](cartas_sobre_probabilidad.md)<br/>
+
 - 📓 [Agosto de 2022: Las matemáticas en tela de juicio (de Béla Andrásfai)](matematicas_en_tela_de_juicio.md)<br/>
 
 
