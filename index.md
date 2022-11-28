@@ -23,6 +23,10 @@ Unos cuantos libros para disfrutar de las matemáticas "_a la húngara_":
 - 📓 [Febrero de 2022: Cartas sobre Probabilidad (de Alfréd Rényi)](cartas_sobre_probabilidad.md)<br/>
 - 📓 [Agosto de 2022: Las matemáticas en tela de juicio (de Béla Andrásfai)](matematicas_en_tela_de_juicio.md)<br/>
 
+<p align="center">
+ <img src="libros.jpg" width="500"  class="center"  border="2">
+</p>
+
 <hr size="16px" color="black" />
 
 **Humor...**
