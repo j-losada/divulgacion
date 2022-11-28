@@ -1,7 +1,7 @@
 # Matemática Magyar<br/>
 
 <p align="center">
- <img src="enclase.jpg" width="500"  class="center"  border="2">
+ <img src="divulgacion.jpg" width="500"  class="center"  border="2">
 </p>
 
 "_Is there any virtue in adding new topics to the Elementary School Math Curriculum? Is it not more important to teach a limited number of time-honoured topics in a meaningful way, than to cram curriculum with too much stuff, risking to neglect the essentials?_"
