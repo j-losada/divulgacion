@@ -16,7 +16,7 @@ Todos los **materiales** que se muestran a continuación han sido **diseñados p
 
 <hr size="16px" color="black" />
 
-Unos cuantos libros para aprender matemáticas "_a la húngara_":
+Unos cuantos libros para disfrutar de las matemáticas "_a la húngara_":
 
 - 📓 [Abril de 2021: Jugando con el Infinito (de Rózsa Péter)](jugando_con_el_infinito.md)<br/>
 - 📓 [Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)](dialogos_matematicos.md)<br/>
