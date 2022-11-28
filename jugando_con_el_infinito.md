@@ -1,3 +1,5 @@
+<hr size="16px" color="black" />
+
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
 Traducción al castellano del libro: "_Játék a végtelennel: Matematika kívülállóknak_" (_Jugando con el Infinito: matemáticas para forasteros_) de la matemática húngara [Rózsa Péter](https://es.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter):
