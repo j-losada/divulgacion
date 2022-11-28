@@ -1,3 +1,5 @@
+<hr size="16px" color="black" />
+
 **Agosto de 2022: Las matemáticas en tela de juicio (de Béla Andrásfai)**
 
 Traducción al castellano del libro: "_Matematika a vádlottak padján_" (_Matemáticas en tela de juicio_) del matemático húngaro [Béla Andrásfai](https://en.wikipedia.org/wiki/B%C3%A9la_Andr%C3%A1sfai):
