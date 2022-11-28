@@ -16,6 +16,13 @@ Todos los **materiales** que se muestran a continuación han sido **diseñados p
 
 <hr size="16px" color="black" />
 
+- 📓 [**Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**](xogando_co_infinito_protected.pdf)<br/>
+- 📓 [**Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)**](xogando_co_infinito_protected.pdf)<br/>
+- 📓 [**Febrero de 2022: Cartas sobre Probabilidad (de Alfréd Rényi)**](xogando_co_infinito_protected.pdf)<br/>
+- 📓 [**Agosto de 2022: Las matemáticas en tela de juicio (de Béla Andrásfai)**](xogando_co_infinito_protected.pdf)<br/>
+
+
+
 **Abril de 2021: Jugando con el Infinito (de Rózsa Péter)**
 
 Traducción al castellano del libro: "_Játék a végtelennel: Matematika kívülállóknak_" (_Jugando con el Infinito: matemáticas para forasteros_) de la matemática húngara [Rózsa Péter](https://es.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter):
