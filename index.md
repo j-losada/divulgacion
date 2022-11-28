@@ -41,7 +41,9 @@ Nosotros tampoco.
 - 📎 [El uno y la nada](el_uno_y_la_nada.pdf)<br/>(Sólo para aquellos que descubrieron el continuo)
 - Continuará...<br/> (No sin tu interés)
 
-<p align="left">
- <img src="autor_hungaro.png" width="165"  class="left">
+<p align="center">
+ <img src="continuara.jpg" width="500"  class="center"  border="2">
 </p>
+
+
 <hr size="16px" color="black" />
