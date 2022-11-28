@@ -1,3 +1,5 @@
+<hr size="16px" color="black" />
+
 **Febrero de 2022: Cartas sobre Probabilidad (de Alfréd Rényi)**
 
 Traducción al castellano del libro: "_Levelek a valószínűségről_" (_Cartas sobre probabilidad_) del matemático húngaro [Alfréd Rényi](https://es.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi):
