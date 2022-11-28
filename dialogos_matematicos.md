@@ -1,3 +1,5 @@
+<hr size="16px" color="black" />
+
 **Octubre de 2021: Diálogos Matemáticos (de Alfréd Rényi)**
 
 Traducción al gallego del libro: "_Dialógusok a matematikáról_" (_Diálogos Matemáticos_) del matemático húngaro [Alfréd Rényi](https://es.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi):
