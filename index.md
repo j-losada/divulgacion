@@ -25,7 +25,7 @@ Unos cuantos libros para disfrutar de las matemáticas "_a la húngara_":
 
 <hr size="16px" color="black" />
 
-**En el futuro...**
+**Humor...**
 
 No podemos despedirnos sin un poco de humor, pues tal y como dijo [Frigyes Karinthy](https://es.wikipedia.org/wiki/Frigyes_Karinthy):
 <p>
